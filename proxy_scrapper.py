@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 from pynput import keyboard
 import requests
 from bs4 import BeautifulSoup
